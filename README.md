@@ -1,2 +1,2 @@
-# Dental
+# Dental Clinic Management System
  
